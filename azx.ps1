@@ -1,4 +1,1 @@
-Get-ExecutionPolicy -List
-Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
-
-Unblock-File -Path .\yourscript.ps1
+https://gofile.io/d/HNlh4I
